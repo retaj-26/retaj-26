@@ -1,18 +1,34 @@
-<h2 align="center"><i>Hi there 👋 I'm </i> <mark>Retaj</mark></h2>
+<h2 align="center">
+  <sub>👋🏻 Hello everyone!<br> I'm ... </sub> 
+  <stronr> Retaj Alharbi </stronr></h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=006400&center=true&vCenter=true&width=300&lines=Cybersecurity;Network+Systems;Internet+of+Things;Web+Development" alt="Typing SVG" />
 </p>
 
----
 
-🎓 **Cybersecurity & Network Systems Student**  
-💡 Interested in IoT, web development, and cybersecurity  
-🔧 Working on projects using Arduino  
-👩‍💻 Always learning, experimenting, and sharing useful knowledge  
-🌱 Passionate about improving my skills every day
+## 👩🏻‍💻 About Me
 
----
+Hi! I'm Retaj 👋🏻  
+A Cybersecurity & Network Systems student who loves building things, breaking them (and fixing them), and learning by doing.
+
+- 💡 Interested in IoT, Arduino, and anything hands-on  
+- 🌐 I enjoy web development with HTML, CSS, JavaScript, and Python  
+- 🧠 Naturally curious — always exploring tools and real-world challenges  
+- ✍🏻 I love sharing what I learn, one step at a time 🌿
+
+<br>
+
+## 🎯 Current Goals
+
+- 🐍 Sharpen my Python skills and write smarter code  
+- 🤖 Build smart IoT projects using Arduino  
+- 🔐 Master CTF challenges and explore bug bounty  
+- 🌐 Deepen my understanding of networks, protocols, and security  
+- 📝 Write and share technical content
+
+
+<br>
 
 ### 🧰 Languages & Tools
 <p align="left">
@@ -25,28 +41,35 @@
  
 </p>
 
----
+<br>
 
-### 📌 Current Goals:
-- Improve my Python skills 🐍  
-- Build useful IoT projects 🌐  
-- Learn practical network security 🔐  
-- Share content that benefits others 💜
+> Every time you learn something new, you become a stronger version of yourself...🧠🌱
 
----
+<br>
 
-> ✨ "Every time you learn something new, you become a stronger version of yourself." ✨
-
----
-
-### 📫 Connect with me
+<h3 align="center"> 📫 Connect with me </h3>
 
 <p align="center">
   <a href="https://x.com/rej7_" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X Logo" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X Logo" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/retaj-alharbi-153057319" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn Logo" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn Logo" width="30" />
   </a>
+</p>
+
+---
+
+### 🔥 Contribution Streak 
+<h6>(Days of Activity)</h6>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=retaj-26&theme=dark-green&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" width="480"/>
+</p>
+
+
+<h5 align="center"> 👀 Visitor Count</h5>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=retaj-26&style=flat-square&color=006400&label=Visitors" alt="Visitor Counter" />
 </p>
