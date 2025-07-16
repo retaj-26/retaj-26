@@ -60,13 +60,11 @@ A Cybersecurity & Network Systems student who loves building things, breaking th
 </p>
 
 ---
-
-### 🔥 Contribution Streak 
-<h6>(Days of Activity)</h6>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=retaj-26&theme=dark-green&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" width="480"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBnenZxa2xjdTk5bng2MWJyamtmcGNncTR4eXUyMmtzYXhzd2J3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PZrjGkr334fXa/giphy.gif" width="670" />
 </p>
+
+
 
 
 <h5 align="center"> 👀 Visitor Count</h5>
