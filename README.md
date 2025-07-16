@@ -12,17 +12,17 @@
 Hi! I'm Retaj 👋🏻  
 A Cybersecurity & Network Systems student who loves building things, breaking them (and fixing them), and learning by doing.
 
-- 💡 Interested in IoT, Arduino, and anything hands-on  
-- 🌐 I enjoy web development with HTML, CSS, JavaScript, and Python  
+- 💡 Interested in IoT, `Arduino` and anything hands-on  
+- 🌐 I enjoy web development with `HTML` `CSS` `JavaScript`   
 - 🧠 Naturally curious — always exploring tools and real-world challenges  
-- ✍🏻 I love sharing what I learn, one step at a time 🌿
+- ✍🏻 I love sharing what I learn, one step at a time 
 
 <br>
 
 ## 🎯 Current Goals
 
 - 🐍 Sharpen my Python skills and write smarter code  
-- 🤖 Build smart IoT projects using Arduino  
+- 🤖 Build smart IoT projects using Arduino
 - 🔐 Master CTF challenges and explore bug bounty  
 - 🌐 Deepen my understanding of networks, protocols, and security  
 - 📝 Write and share technical content
